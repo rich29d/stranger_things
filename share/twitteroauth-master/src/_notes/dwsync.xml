@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Config.php" server="ftp.e9dev.com.br" local="131137812515536948" remote="131138014800000000" Dst="1" />
+<file name="Consumer.php" server="ftp.e9dev.com.br" local="131137812515536948" remote="131138014800000000" Dst="1" />
+<file name="HmacSha1.php" server="ftp.e9dev.com.br" local="131137812517528681" remote="131138014800000000" Dst="1" />
+<file name="Request.php" server="ftp.e9dev.com.br" local="131137812518044047" remote="131138014800000000" Dst="1" />
+<file name="Response.php" server="ftp.e9dev.com.br" local="131137812518044047" remote="131138014800000000" Dst="1" />
+<file name="Token.php" server="ftp.e9dev.com.br" local="131137812519703283" remote="131138014800000000" Dst="1" />
+<file name="TwitterOAuth.php" server="ftp.e9dev.com.br" local="131137812519703283" remote="131138014800000000" Dst="1" />
+<file name="SignatureMethod.php" server="ftp.e9dev.com.br" local="131137812520023491" remote="131138014800000000" Dst="1" />
+<file name="TwitterOAuthException.php" server="ftp.e9dev.com.br" local="131137812521230393" remote="131138014800000000" Dst="1" />
+<file name="Util.php" server="ftp.e9dev.com.br" local="131137812521530617" remote="131138014800000000" Dst="1" />
+<file name="cacert.pem" server="ftp.e9dev.com.br" local="131137812525745310" remote="131138014800000000" Dst="1" />
+</dwsync>

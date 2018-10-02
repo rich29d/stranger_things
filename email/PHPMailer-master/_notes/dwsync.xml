@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="ftp.e9dev.com.br" local="131138779963067550" remote="131138848800000000" Dst="1" />
+<file name=".scrutinizer.yml" server="ftp.e9dev.com.br" local="131138779963322765" remote="131138848800000000" Dst="1" />
+<file name=".travis.yml" server="ftp.e9dev.com.br" local="131138779963582930" remote="131138848800000000" Dst="1" />
+<file name="LICENSE" server="ftp.e9dev.com.br" local="131138779965552806" remote="131138848800000000" Dst="1" />
+<file name="PHPMailerAutoload.php" server="ftp.e9dev.com.br" local="131138780059170544" remote="131138848800000000" Dst="1" />
+<file name="README.md" server="ftp.e9dev.com.br" local="131138779965692900" remote="131138848800000000" Dst="1" />
+<file name="changelog.md" server="ftp.e9dev.com.br" local="131138779967916293" remote="131138848800000000" Dst="1" />
+<file name="VERSION" server="ftp.e9dev.com.br" local="131138779968156471" remote="131138848800000000" Dst="1" />
+<file name="class.phpmailer.php" server="ftp.e9dev.com.br" local="131138779969016225" remote="131138848800000000" Dst="1" />
+<file name="class.phpmaileroauth.php" server="ftp.e9dev.com.br" local="131138779969799342" remote="131138848800000000" Dst="1" />
+<file name="class.phpmaileroauthgoogle.php" server="ftp.e9dev.com.br" local="131138779970109559" remote="131138848800000000" Dst="1" />
+<file name="class.pop3.php" server="ftp.e9dev.com.br" local="131138779971219417" remote="131138848800000000" Dst="1" />
+<file name="class.smtp.php" server="ftp.e9dev.com.br" local="131138779972720458" remote="131138848800000000" Dst="1" />
+<file name="composer.json" server="ftp.e9dev.com.br" local="131138779972720458" remote="131138848800000000" Dst="1" />
+<file name="composer.lock" server="ftp.e9dev.com.br" local="131138779974721713" remote="131138848800000000" Dst="1" />
+<file name="get_oauth_token.php" server="ftp.e9dev.com.br" local="131138780022676294" remote="131138848800000000" Dst="1" />
+<file name="travis.phpunit.xml.dist" server="ftp.e9dev.com.br" local="131138780057728071" remote="131138848800000000" Dst="1" />
+</dwsync>
